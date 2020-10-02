@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "aberlaas": "1.13.2"
+    "aberlaas": "1.13.3"
   },
   "bin": {
     "reddinx": "bin/reddinx"
