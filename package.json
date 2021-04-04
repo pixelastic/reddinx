@@ -25,7 +25,7 @@
   },
   "version": "0.0.7",
   "dependencies": {
-    "firost": "2.7.0",
+    "firost": "2.8.0",
     "golgoth": "2.0.0",
     "he": "1.2.0",
     "minimist": "1.2.5",
