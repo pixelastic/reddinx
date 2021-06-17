@@ -5376,10 +5376,10 @@ node-modules-regexp@^1.0.0:
   resolved "https://registry.npmjs.org/node-modules-regexp/-/node-modules-regexp-1.0.0.tgz#8d9dbe28964a4ac5712e9131642107c71e90ec40"
   integrity sha1-jZ2+KJZKSsVxLpExZCEHxx6Q7EA=
 
-node-object-hash@2.3.4:
-  version "2.3.4"
-  resolved "https://registry.yarnpkg.com/node-object-hash/-/node-object-hash-2.3.4.tgz#4deb2da90c3264c70bcf1b8413733d438972dabe"
-  integrity sha512-EeCg00r5yj3xVzrfFaq9jaeMWKxb0zkOyPC+m5AQrKIvhue7stoqSbhU0UHGQ9rWXC96Z+UtUVeTWOAgjjVhew==
+node-object-hash@2.3.7:
+  version "2.3.7"
+  resolved "https://registry.yarnpkg.com/node-object-hash/-/node-object-hash-2.3.7.tgz#f60b767944be41bdfc62b3cfaa38f9cf6f90149a"
+  integrity sha512-ybV3ZKZZoHJPSelxgRY5LYRHQToMtxvJxNbkY8WtWCy5Z/t3V0gyy/6O6kGoh0PrzZIATxVVDG2q+eM6iZMjKQ==
 
 node-releases@^1.1.58:
   version "1.1.60"
