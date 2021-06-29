@@ -1,37 +1,29 @@
 {
-  "devDependencies": {
-    "aberlaas": "1.24.0"
-  },
-  "bin": {
-    "reddinx": "bin/reddinx"
-  },
-  "files": [
-    "bin/reddinx",
-    "lib/*.js",
-    "lib/helpers/*.js",
-    "lib/commands/*.js"
+  "private": true,
+  "name": "reddinx-monorepo",
+  "description": "reddinx monorepo",
+  "homepage": "https://projects.pixelastic.com/reddinx/",
+  "keywords": [],
+  "workspaces": [
+    "lib",
+    "docs"
   ],
-  "license": "MIT",
-  "main": "lib/main.js",
-  "name": "reddinx",
+  "files": [],
+  "devDependencies": {
+    "aberlaas": "1.24.0",
+    "lerna": "4.0.0"
+  },
   "scripts": {
+    "build": "./scripts/docs/build",
+    "build:prod": "./scripts/docs/build-prod",
     "ci": "./scripts/ci",
+    "cms": "./scripts/docs/cms",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "release": "./scripts/release",
-    "test": "./scripts/test",
-    "test:watch": "./scripts/test-watch"
-  },
-  "version": "0.0.7",
-  "dependencies": {
-    "firost": "2.14.0",
-    "golgoth": "2.0.0",
-    "he": "1.2.0",
-    "minimist": "1.2.5",
-    "node-object-hash": "2.3.7"
-  },
-  "engines": {
-    "node": ">=14.17.0"
+    "serve": "./scripts/docs/serve",
+    "test": "./scripts/lib/test",
+    "test:watch": "./scripts/lib/test-watch"
   }
 }

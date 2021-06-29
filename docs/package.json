@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "norska": "2.4.1",
+    "norska-theme-docs": "5.0.1"
+  },
+  "files": [],
+  "name": "reddinx-docs",
+  "private": true,
+  "scripts": {
+    "build": "../scripts/docs/build",
+    "build:prod": "../scripts/docs/build-prod",
+    "cms": "../scripts/docs/cms",
+    "lint": "../scripts/docs/lint",
+    "lint:fix": "../scripts/docs/lint-fix",
+    "serve": "../scripts/docs/serve"
+  },
+  "version": "0.0.7"
+}
