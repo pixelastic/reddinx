@@ -1,13 +1,18 @@
 {
   "name": "reddinx",
-  "description": "Import all posts from a subreddit in a format suitable for Algolia",
+  "description": "Import all posts from a subreddit in JSON format",
   "version": "0.0.7",
   "repository": "pixelastic/reddinx",
   "homepage": "https://projects.pixelastic.com/reddinx/",
   "author": "Tim Carry (@pixelastic)",
   "license": "MIT",
   "main": "main.js",
-  "files": ["bin/reddinx", "*.js", "helpers/*.js", "commands/*.js"],
+  "files": [
+    "bin/reddinx",
+    "*.js",
+    "helpers/*.js",
+    "commands/*.js"
+  ],
   "bin": {
     "reddinx": "bin/reddinx"
   },

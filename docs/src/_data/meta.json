@@ -1,6 +1,6 @@
 {
   "title": "reddinx",
-  "description": "",
+  "description": "Import all posts from a subreddit in JSON format",
   "productionUrl": "https://projects.pixelastic.com/reddinx/",
   "twitter": "pixelastic"
 }
