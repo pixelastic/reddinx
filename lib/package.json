@@ -1,5 +1,6 @@
 {
   "name": "reddinx",
+  "description": "Import all posts from a subreddit in a format suitable for Algolia",
   "version": "0.0.7",
   "repository": "pixelastic/reddinx",
   "homepage": "https://projects.pixelastic.com/reddinx/",

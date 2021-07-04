@@ -1,5 +1,6 @@
 # Build website
 [build]
+  base = ""
   command = "yarn run build:prod"
   publish = "docs/dist/"
 
