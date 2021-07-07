@@ -1,8 +1,8 @@
 module.exports = {
-  // docSearch: {
-  //   apiKey: 'XXXXXX',
-  //   indexName: 'pixelastic_XXXXXX',
-  // },
+  docSearch: {
+    apiKey: '8934f55a45e4e0a40eead64adbba7187',
+    indexName: 'pixelastic_reddinx',
+  },
   navigation: [
     {
       name: 'Overview',
