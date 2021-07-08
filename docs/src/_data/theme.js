@@ -20,8 +20,8 @@ module.exports = {
           href: 'incremental',
         },
         {
-          title: 'options',
-          href: 'options',
+          title: 'Configuration',
+          href: 'configuration',
         },
       ],
     },
@@ -37,12 +37,8 @@ module.exports = {
           href: 'scheduledJobs',
         },
         {
-          title: 'reddinx.config.js',
-          href: 'reddinx.config.js',
-        },
-        {
-          title: 'Hooks',
-          href: 'hooks',
+          title: 'reddinx.state.js',
+          href: 'reddinx.state.js',
         },
       ],
     },

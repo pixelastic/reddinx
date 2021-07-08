@@ -20,6 +20,6 @@ of the `.json` file is the Reddit uuid of the post).
 Depending on the popularity and age of the subreddit, this can take from several
 minutes to several hours.
 
-This will update your `reddinx.config.js` with the date of the last import, so
+This will update your `reddinx.state.js` with the date of the last import, so
 you'll then be able to run `incremental` and only update your data with the new
 posts since your last import.
