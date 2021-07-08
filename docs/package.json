@@ -14,5 +14,5 @@
     "lint:fix": "../scripts/docs/lint-fix",
     "serve": "../scripts/docs/serve"
   },
-  "version": "0.0.7"
+  "version": "1.0.0"
 }
