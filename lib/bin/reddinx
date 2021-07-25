@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const cli = require('../lib/cli.js');
+const cli = require('../cli.js');
 (async () => {
   await cli.run(process.argv.slice(2));
 })();
