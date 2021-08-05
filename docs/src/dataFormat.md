@@ -1,4 +1,3 @@
-Please update your .prettierrc.js to require aberlaas/configs/prettier.js instead of aberlaas/lib/configs/prettier.js
 ---
 title: Data format
 ---
