@@ -28,7 +28,6 @@ would look like once imported through `reddinx`.
     "hash": "8370fe7de1",
     "height": 640,
     "lqip": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAJBAAAgIBBAIBBQAAAAAAAAAAAQIDBBEABSExEyIGEkFRYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A11cyKz2LzhrUzMqWzKPHHyAx56OMjrJ6HeglgjimieFUr2gxBhkmz9ffuoYEoMc4OCPxodve/tnyOtUqh565bxuRaEgnJHscY/h/WNSb7a26lu81S3vMTAAq5SXkA9k5yC2Dzz9tNrKCn//Z",
-    "thumbnailUrl": "https://b.thumbs.redditmedia.com/4T82LxOj2KjJplPFaTrDQbiPQH7kkpns0yc0qL88bGk.jpg",
     "url": "https://preview.redd.it/fu4azxhfnrp61.jpg?width=640&crop=smart&auto=webp&s=b48bc9ccfbb7ba5b4f481f77c273f5513c620d9d",
     "width": 640
   },
