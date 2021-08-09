@@ -19,9 +19,6 @@ would look like once imported through `reddinx`.
     "week": 1616889600
   },
   "id": "t3_mf0xo2",
-  "misc": {
-    "postHint": "image"
-  },
   "picture": {
     "filesize": 127885,
     "fullUrl": "https://preview.redd.it/fu4azxhfnrp61.jpg?auto=webp&s=b8c020cd53528216e081ba52170f009101706862",
@@ -67,15 +64,12 @@ saved.
 |             | `.week`         | ...clamped to the start of the week                              |
 |             | `.month`        | ...clamped to the start of the month                             |
 | `id`        |                 | Post reddit ID. Always starts with `t3_`                         |
-| `misc`      |                 | Uncategorized metadata                                           |
-|             | `.postHint`     | How reddit sees this post                                        |
 | `picture`   |                 | Picture metadata                                                 |
 |             | `.filesize`     | Size in bytes of the picture                                     |
 |             | `.fullUrl`      | URL to the post original image                                   |
 |             | `.hash`         | Unique hash representing the file                                |
 |             | `.height`       | Height, in pixels                                                |
 |             | `.lqip`         | Base64 encoded representation of a Low Quality Image Placeholder |
-|             | `.thumbnailUrl` | URL to the post thumbnail image (visible in search results)      |
 |             | `.url`          | URL to the post preview image (visible in the subreddit index)   |
 |             | `.width`        | Width, in pixels                                                 |
 | `score`     |                 | Various scoring metadata                                         |
