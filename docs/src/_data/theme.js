@@ -20,6 +20,10 @@ module.exports = {
           href: 'incremental',
         },
         {
+          title: 'localUpdate()',
+          href: 'local-update',
+        },
+        {
           title: 'Configuration',
           href: 'configuration',
         },
