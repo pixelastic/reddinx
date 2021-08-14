@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "firost": "2.16.2",
-    "golgoth": "2.0.0",
+    "golgoth": "2.1.0",
     "he": "1.2.0",
     "imoen": "1.2.0",
     "minimist": "1.2.5",
