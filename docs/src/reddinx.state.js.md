@@ -8,5 +8,5 @@ knows when was the last time it did an import.
 
 It will be created on first run, and updated on subsequent runs.
 
-The only information stored in the file is the `lastCrawledDate`, and you should
-never have to edit this file manually. It
+The only information stored in the file is the `lastCrawledDate` for each
+subreddit, and you should never have to edit this file manually.
