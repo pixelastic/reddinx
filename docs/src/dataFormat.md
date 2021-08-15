@@ -18,6 +18,7 @@ would look like once imported through `reddinx`.
     "month": 1614556800,
     "week": 1616889600
   },
+  "flair": ["Region"],
   "id": "t3_mf0xo2",
   "picture": {
     "filesize": 127885,
@@ -39,7 +40,7 @@ would look like once imported through `reddinx`.
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region"],
+  "tags": ["OC"],
   "title": "The refuge of the lost tooth. Last inn before the wild lands.",
   "url": "https://www.reddit.com/r/dndmaps/comments/mf0xo2/the_refuge_of_the_lost_tooth_last_inn_before_the/"
 }
@@ -63,6 +64,7 @@ saved.
 |             | `.day`          | ...clamped to the start of the day                               |
 |             | `.week`         | ...clamped to the start of the week                              |
 |             | `.month`        | ...clamped to the start of the month                             |
+| `flair`     |                 | Array of flair added to the post                                            |
 | `id`        |                 | Post reddit ID. Always starts with `t3_`                         |
 | `picture`   |                 | Picture metadata                                                 |
 |             | `.filesize`     | Size in bytes of the picture                                     |
@@ -81,7 +83,7 @@ saved.
 | `subreddit` |                 | Subreddit metadata                                               |
 |             | `.id`           | Subreddit ID. Always starts with `t5_`                           |
 |             | `.name`         | Subreddit name (as visible in the URL)                           |
-| `tags`      |                 | Array of tags (flair)                                            |
+| `tags`      |                 | Array of tags (anything between `[]` in the title)                                            |
 | `title`     |                 | Name of the post                                                 |
 | `url`       |                 | Permalink to the post                                            |
 
