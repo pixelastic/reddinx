@@ -22,7 +22,7 @@
     "he": "1.2.0",
     "imoen": "1.2.0",
     "minimist": "1.2.5",
-    "node-object-hash": "2.3.8"
+    "node-object-hash": "2.3.9"
   },
   "engines": {
     "node": ">=14.17.0"
