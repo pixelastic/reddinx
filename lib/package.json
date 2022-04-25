@@ -21,7 +21,7 @@
     "golgoth": "2.1.0",
     "he": "1.2.0",
     "imoen": "1.2.0",
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "node-object-hash": "2.3.10"
   },
   "engines": {
