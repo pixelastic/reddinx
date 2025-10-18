@@ -1,7 +1,7 @@
 {
   "name": "reddinx",
   "description": "Import all posts from a subreddit in JSON format",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "repository": "pixelastic/reddinx",
   "homepage": "https://projects.pixelastic.com/reddinx/",
   "author": "Tim Carry (@pixelastic)",
