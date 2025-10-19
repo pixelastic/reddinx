@@ -1,7 +1,7 @@
 {
   "name": "reddinx",
   "description": "DEPRECATED: Import all posts from a subreddit in JSON format (No longer functional due to Pushshift API shutdown)",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "deprecated": "This package no longer works. The Pushshift API it depends on is no longer publicly accessible as of May 2023.",
   "repository": "pixelastic/reddinx",
   "homepage": "https://projects.pixelastic.com/reddinx/",
