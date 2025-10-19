@@ -5,6 +5,14 @@
 
 # reddinx
 
+## ⚠️ ARCHIVED - NO LONGER FUNCTIONAL
+
+**This project no longer works.** In May 2023, Reddit [shut down public access to the Pushshift API](https://github.com/pushshift/api/issues/145) as part of their broader [API monetization changes](https://en.wikipedia.org/wiki/2023_Reddit_API_controversy). The Pushshift API is now [restricted to Reddit-approved moderators](https://support.reddithelp.com/hc/en-us/articles/16470271632404-Pushshift-Access-Request) for moderation purposes only.
+
+Since reddinx was designed to work with the freely accessible public Pushshift API, it can no longer function. This repository is kept for historical reference only.
+
+---
+
 <div class="lead">
   <code>reddinx</code> is a reddit indexer. It saves on disk all posts of
   a specific subreddit, in a format compatible with Algolia records.

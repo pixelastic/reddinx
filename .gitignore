@@ -13,3 +13,12 @@ yarn-error.log
 *~
 *.rej
 .netlify
+
+# Claude Code
+CLAUDE.md
+.claude/
+.mcp.json
+.env.example
+
+# Task Master
+.taskmaster/ 
